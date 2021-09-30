@@ -1,0 +1,24 @@
+.player {
+  background-color: rgb(58 135 135);
+  width: 12%;
+  height: 35%;
+  position: absolute;
+  border-radius: 30px;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+}
+
+.player1 {
+  margin-left: -900px;
+}
+
+.player2 {
+  margin-right: -900px;
+}
+
+p {
+  font-size: 24px;
+  color: black;
+  text-align: center;
+}
